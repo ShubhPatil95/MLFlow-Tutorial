@@ -57,10 +57,11 @@ if __name__ == "__main__":
         f.write("hello world!")
     mlflow.log_artifact("test.txt")
 ```
-Now run below line in next cell of train.ipynb and you will get URL UI like http://127.0.0.1:5000. Go to URL and you will see output as below.
+Now run below line in next cell of train.ipynb and you will get URL UI like http://127.0.0.1:5000.
 ```ruby
 mlflow ui
 ```
+ Go to URL http://127.0.0.1:5000 and you will see output as below.<br>
 <img src="https://github.com/ShubhPatil95/MLFlow-Tutorial/blob/main/images/UI-outputs-1.jpg" alt="UI output-1">
 
 You can click on run and you will see below page showing all detail with test.txt file.
