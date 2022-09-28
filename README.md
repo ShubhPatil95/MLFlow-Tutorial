@@ -41,7 +41,7 @@ There are 4 components of MLflow and they can be used independently.
 MLflow Tracking is probably the most used tool in industry by ML engineers and data scientists. Lets quickly see how to use mlflow tracking to track the metrics and parameters. <br>
 
 You can copy and paste below code in jupyter notebook named train.ipynb
-<img src="https://github.com/ShubhPatil95/MLFLOW_Tutorial/tree/main/images/train-ipynb.jpg" alt="train.ipynb">
+<img src="https://github.com/ShubhPatil95/MLFlow-Tutorial/blob/main/train.ipynb" alt="train.ipynb">
 
 ```ruby
 import mlflow
@@ -60,11 +60,11 @@ Now run below line in next cell of train.ipynb and you will get URL UI like http
 ```ruby
 mlflow ui
 ```
-<img src="https://github.com/ShubhPatil95/MLFLOW_Tutorial/tree/main/images/UI-outputs-1.jpg" alt="UI output-1">
+<img src="https://github.com/ShubhPatil95/MLFlow-Tutorial/blob/main/images/UI-outputs-1.jpg" alt="UI output-1">
 
 You can click on run and you will see below page showing all detail with test.txt file.
 
-<img src="https://github.com/ShubhPatil95/MLFLOW_Tutorial/tree/main/images/UI-outputs-1-Inside.jpg" alt="UI-outputs-1-Inside">
+<img src="https://github.com/ShubhPatil95/MLFlow-Tutorial/blob/main/images/UI-outputs-1-Inside.png" alt="UI-outputs-1-Inside">
 
 
 
