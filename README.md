@@ -40,8 +40,7 @@ There are 4 components of MLflow and they can be used independently.
 ## MLflow Tracking: 
 MLflow Tracking is probably the most used tool in industry by ML engineers and data scientists. Lets quickly see how to use mlflow tracking to track the metrics and parameters. <br>
 
-You can copy and paste below code in jupyter notebook named train.ipynb
-<img src="https://github.com/ShubhPatil95/MLFlow-Tutorial/blob/main/train.ipynb" alt="train.ipynb">
+You can copy and paste below code in jupyter notebook named [train.ipynb]("https://github.com/ShubhPatil95/MLFlow-Tutorial/blob/main/train.ipynb")
 
 ```ruby
 import mlflow
