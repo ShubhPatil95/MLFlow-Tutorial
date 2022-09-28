@@ -39,9 +39,9 @@ There are 4 components of MLflow and they can be used independently.
 
 
 
-<br> MLflow Tracking is probably the most used tool in industry by ML engineers and data scientists. Lets quickly see how to use mlflow tracking to track the metrics and parameters.
 <details><summary> <h3> MLflow Tracking </h3> </summary> 
 <p>
+<br> MLflow Tracking is probably the most used tool in industry by ML engineers and data scientists. Lets quickly see how to use mlflow tracking to track the metrics and parameters.
 
 You can copy and paste below code in jupyter notebook named [train.ipynb]("https://github.com/ShubhPatil95/MLFlow-Tutorial/blob/main/train.ipynb")
 
@@ -72,10 +72,10 @@ You can click on run and you will see below page showing all detail with test.tx
 </details>
 
 
-<br> Here in this section will see how to create a entire project using MLFlow.
 
 <details><summary> <h3> MLFlow-Simple-ML-Project </h3> </summary>
 <p>
+<br> Here in this section will see how to create a entire project using MLFlow.
 
 #### Step1: Create a folder Mlflow_Project_Package and move inside the folder
 ```ruby
@@ -122,9 +122,9 @@ mlflow ui
 
 
 
-<br> Till now we have seen, how to create a project using MLFlow. Further moving ahead in this section we will learn how to package a project in a MLFlow way.
 <details><summary> <h3> Mlflow_Project_Package </h3> </summary>
 <p>
+<br> Till now we have seen, how to create a project using MLFlow. Further moving ahead in this section we will learn how to package a project in a MLFlow way.
 
 #### Step1: Create a folder Mlflow_Project_Package and move inside of it
 ```ruby
