@@ -37,8 +37,9 @@ There are 4 components of MLflow and they can be used independently.
 * <strong> MLflow Models:</strong> It is a standard format for packaging machine learning models that can be used in a variety of downstream tools—for example, real-time serving through a REST API or batch inference on Apache Spark. 
 * <strong> MLflow Model Registry:</strong> It is a centralized model store, set of APIs, and web interface to manage the full ML lifecycle.
 
-MLflow Tracking is probably the most used tool in industry by ML engineers and data scientists. Lets quickly see how to use mlflow tracking to track the metrics and parameters. <br>
 
+
+<br> MLflow Tracking is probably the most used tool in industry by ML engineers and data scientists. Lets quickly see how to use mlflow tracking to track the metrics and parameters.
 <details><summary> <h3> MLflow Tracking </h3> </summary> 
 <p>
 
@@ -71,8 +72,8 @@ You can click on run and you will see below page showing all detail with test.tx
 </details>
 
 
-
-<details><summary> <h3> Mlflow-Simple-ML-Project </h3> </summary>
+<br> Here in this section will see
+<details><summary> <h3> MLFlow-Simple-ML-Project </h3> </summary>
 <p>
 
 #### Step1: Create a folder Mlflow_Project_Package and move inside the folder
