@@ -134,7 +134,7 @@ conda create -n mlflow_env python=3.7 -y
 
 conda activate mlflow_env
 ```
-#### Step3: Create a python file train.py and copy paste code from [train.py](https://github.com/ShubhPatil95/MLFLOW_Tutorial/blob/main/Mlflow_Project_Package/train.py) or You can create train.ipynb file from [train.ipynb]
+#### Step3: Create a python file train.py and copy paste code from [train.py](https://github.com/ShubhPatil95/MLFLOW_Tutorial/blob/main/Mlflow_Project_Package/train.py) or You can create train.ipynb file from [train.ipynb](https://github.com/ShubhPatil95/MLFlow-Tutorial/blob/main/train.ipynb)
 ```ruby
 nano train.py
 ```
