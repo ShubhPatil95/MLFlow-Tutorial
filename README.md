@@ -122,7 +122,7 @@ mlflow ui
 
 
 
-<details><summary> <h3> Mlflow_Project_Package </h3> </summary>
+<details><summary> <h3> MLFlow_Project_Package </h3> </summary>
 <p>
 <br> Till now we have seen, how to create a project using MLFlow. Further moving ahead in this section we will learn how to package a project in a MLFlow way.
 
